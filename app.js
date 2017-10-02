@@ -4,6 +4,7 @@ console.log('Starting personal note app project')
 
 const fs = require('fs')
 const os = require('os')
+const _ = require('lodash')
 const notes = require('./notes')
 
 var res = notes.addNumbers()
