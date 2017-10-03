@@ -10,6 +10,9 @@ const notes = require('./notes')
 
 console.log(_.isString(true))
 console.log(_.isString('Ali'))
+
+var filterArray = _.uniq(['Ali', 1, 'Ali', 1, 3, 4, 5])
+console.log(filterArray)
 // var res = notes.addNumbers()
 // console.log(res)
 // var user =os.userInfo()
