@@ -1,2 +1,3 @@
 # MyNoteApp
-Personal note app  
+Personal note app  using node js
+
